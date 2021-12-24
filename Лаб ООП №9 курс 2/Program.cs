@@ -12,7 +12,7 @@ namespace Лаб_ООП__9_курс_2
             p1.Print();
             Console.WriteLine("--------------");
             Console.WriteLine("Класс Test");
-            Test b1 = new Test("Тест", 2, "6/10/20", "11:50");
+            Test b1 = new Test("Тест", 2, "95/100");
             b1.Print();
             Console.WriteLine("--------------");
             Console.WriteLine("Класс Exam");

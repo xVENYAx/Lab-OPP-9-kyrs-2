@@ -29,7 +29,6 @@ namespace Лаб_ООП__9_курс_2
             Console.WriteLine("Значение полей");
             Console.WriteLine($"Name = {name}");
             Console.WriteLine($"Number = {number}");
-
         }
 
     }
